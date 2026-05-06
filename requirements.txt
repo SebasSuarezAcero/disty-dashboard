@@ -1,7 +1,9 @@
-streamlit
-plotly
+dash
 pandas
+plotly
 requests
-python-dotenv
+numpy
 scipy
-statsmodels
+scikit-learn
+python-dotenv
+gunicorn
