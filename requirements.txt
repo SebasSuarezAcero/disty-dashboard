@@ -7,3 +7,4 @@ scipy
 scikit-learn
 python-dotenv
 gunicorn
+flask-caching
